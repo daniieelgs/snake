@@ -9,4 +9,4 @@ Juego tradicional del snake
 
 
 ## License
-[License](https://github.com/daniieelgs/snake/LICENSE)
+[License](https://github.com/daniieelgs/snake/blob/master/LICENSE)
